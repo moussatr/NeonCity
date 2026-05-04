@@ -50,3 +50,14 @@ Chaque groupe possede 1-2 MFEs. Un seul Event Bus fait tout communiquer.
   Le Shell :
     cd shell && npm install && npm start
     Ouvrir http://localhost:3000
+
+
+Résultat d’exécution
+Commande lancée :
+
+yarn --cwd "/Users/prince/Projects/efrei/NeonCity/mfe-drones" install
+yarn --cwd "/Users/prince/Projects/efrei/NeonCity/mfe-drones" test
+Sortie clé :
+
+Test Suites: 1 passed, 1 total
+Tests: 1 passed, 1 total
